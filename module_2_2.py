@@ -1,6 +1,6 @@
 number_1 = input ("Введите число: ")
 number_2 = input ("Введите число: ")
-number_3 = 52input ("Введите число: ")
+number_3 = input ("Введите число: ")
 print(number_1)
 print(number_2)
 print(number_3)
